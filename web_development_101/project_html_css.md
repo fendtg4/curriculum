@@ -1405,7 +1405,7 @@ Submit a link below to the github repo with your files in it by using a pull req
 * [Natalie Aldrich's Solution (Difficult)](https://github.com/nataliealdrich/google-homepage/) - [View in Browser](https://nataliealdrich.github.io/google-homepage/)
 * [Hana Klingova's Solution (Easy)](https://github.com/hanny21/google_homepage) - [View in Browser](https://hanny21.github.io/google_homepage/)
 * [Faris Ibrahim's Solution (Easy)](https://github.com/procusr/google-homepage) - [View in Browser](https://procusr.github.io/google-homepage/)
-* [Gabriel Fendt's Solution (Easy)] (https://github.com/fendtg4/google-homepage) 
+* Gabriel Fendt's Solution (Easy) (https://github.com/fendtg4/google-homepage) 
 
 
 ### Additional Resources
